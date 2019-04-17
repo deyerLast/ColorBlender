@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="colorR" type="id"/>
+    <item name="colorG" type="id"/>
+    <item name="colorB" type="id"/>
+    <item name="toolbar" type="id"/>
+    <item name="rColor" type="id"/>
+    <item name="colorSurfaceView" type="id"/>
+</resources>

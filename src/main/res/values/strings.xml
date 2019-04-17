@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ColorBlenderFinal</string>
+    <string name="colorb">colorB</string>
+    <string name="colora">colorA</string>
+    <string name="retur"> Return</string>
+    <string name="color_picker"/>
+    <string name="color_b">Color B</string>
+    <string name="color_a">Color A</string>
+</resources>
